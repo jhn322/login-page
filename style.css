@@ -53,6 +53,11 @@ body {
   gap: 16px;
 }
 
+.login-form input[type="text"],
+.login-form input[type="password"] {
+  font-size: 1.1rem;
+}
+
 .login-form > input,
 .login-form > button {
   width: 100%;
